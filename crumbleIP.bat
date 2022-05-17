@@ -2,7 +2,7 @@
 set APP=crumble
 chcp 65001
 cls
-title NulBerry IP Lookup Tool [%date%]
+title IP Lookup Tool [%date%]
 color 05
 mode 60,15
 setlocal ENABLEDELAYEDEXPANSION
@@ -18,7 +18,6 @@ echo                  [40;32m╦╔═╗  [40;37m╦  ╔═╗╔═╗╔�
 echo                  [40;32m║╠═╝  [40;37m║  ║ ║║  ╠═╣ ║ ║ ║╠╦╝
 echo                  [40;32m╩╩    [40;37m╩═╝╚═╝╚═╝╩ ╩ ╩ ╚═╝╩╚═
 echo.
-echo                      [40;35mgithub.com/vyberr
 echo.
 echo.
 echo        [40;32m1) Locate This Devices IP Information
